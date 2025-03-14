@@ -1,0 +1,21 @@
+{
+    "downloadPath": "test",
+    "animePath": "[NAME]/[ASK]",
+    "episodeFile": "[NUMBER]",
+    "animeWebs":
+        [
+           "animeflv"
+        ],
+    "links": [
+        {
+            "stape": {
+                "maxConcurrentDownloads": 20,
+                "priority": 2
+            },
+            "yourupload": {
+                "maxConcurrentDownloads": 20,
+                "priority": 1
+            }
+        }
+    ]
+}
